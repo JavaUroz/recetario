@@ -1,0 +1,2 @@
+# recetario
+Aplicación para recetas
